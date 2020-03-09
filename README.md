@@ -1,6 +1,8 @@
 # git 연습
+---
 
 #### 생성/업로드/다운로드/삭제 
+---
 
 1. create repository `gitEx200309`
 2. git clone
