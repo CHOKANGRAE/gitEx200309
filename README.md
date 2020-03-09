@@ -16,5 +16,5 @@
 10. git push -> 에러 수정 git push
 11. 다른 폴더에서도 git pull
 12. 7-12번 2~3번 반복
-13. 로컬(내컴퓨터), github.com 페이지의 repository 모두 삭제
+13. 내 컴퓨터, github.com 페이지의 repository 모두 삭제
 14. 1-13번 4~5번 반복
