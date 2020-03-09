@@ -8,14 +8,14 @@
 2. git clone 
 
 ```shell
-$ git clone 주소
-$ cd 폴더
+$ git clone 주소    // 최초 받기
+$ cd 폴더           // 폴더로 이동
 ```
 
 3. file 생성 ( `README.md` ,  `makeFileData.md` )
 
 ```shell
-$ touch README.md makeFileData.md
+$ touch README.md makeFileData.md   // 파일 생성
 ```
 
 4. git push
