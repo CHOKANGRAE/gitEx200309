@@ -8,7 +8,7 @@
 2. git clone 
 
 ```shell
-$ git clone 주소
+$ git clone 주소   // 복사 ctrl + insert, 붙여넣기 shift + insert 
 $ cd 폴더
 ```
 
