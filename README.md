@@ -8,7 +8,8 @@
 2. git clone
 3. file 생성 ( `README.md` ,  `makeFileData.md` )
 4. git push
-5. githup.com 페이지에서 내용 수정 후 git pull
+5. githup.com 페이지에서 내용 수정 후
+6.  git pull
 7. 다른 폴더에서 git clone 처리 후 내용 수정
 8. git push
 9. 원래폴더에서 git pull 하지 않고 내용 수정 후
